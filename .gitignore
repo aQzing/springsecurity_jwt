@@ -1,4 +1,4 @@
-HELP.md
+README.md
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 
@@ -27,3 +27,6 @@ HELP.md
 
 ### VS Code ###
 .vscode/
+/src/main/resources/rebel.xml
+/src/main/resources/rebel-remote.xml
+!/README.md
